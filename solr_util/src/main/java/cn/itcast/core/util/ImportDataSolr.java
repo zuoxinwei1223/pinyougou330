@@ -46,5 +46,11 @@ public class ImportDataSolr {
         //获取当前类对象
         ImportDataSolr importUtil = (ImportDataSolr)applicationContext.getBean("importDataSolr");
         importUtil.importDBDataToSolr();
+        System.out.println("123131");
+        System.out.println("123131");
+        System.out.println("123131");
+        System.out.println("123131");
+        System.out.println("123131");
+        System.out.println("123131");
     }
 }

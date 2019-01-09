@@ -24,12 +24,6 @@ public class BrandController123 {
         System.out.print("1231231");
         System.out.print("1231231");
         System.out.print("1231231"); System.out.print("1231231");
-        System.out.print("1231231");
-        System.out.print("1231231");
-        System.out.print("1231231");
-        System.out.print("1231231");
-        System.out.print("1231231");
-        System.out.print("1231231");
 
     }
 }
